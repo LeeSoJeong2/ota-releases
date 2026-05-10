@@ -1,0 +1,12 @@
+{
+  "version": "1.0.21",
+  "bundle": {
+    "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/f0e85cbfde8575422dcd00818f7e25b2c08fdaa0c7a964fc0dd06b81846b65b3",
+    "sha256": "f0e85cbfde8575422dcd00818f7e25b2c08fdaa0c7a964fc0dd06b81846b65b3",
+    "size": 8465782
+  },
+  "assets": [],
+  "requiredAssetKeys": [],
+  "createdAt": "2026-05-11T00:00:00Z",
+  "signature": null
+}

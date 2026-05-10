@@ -1,0 +1,12 @@
+{
+  "version": "1.0.19",
+  "bundle": {
+    "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68",
+    "sha256": "18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68",
+    "size": 11273829
+  },
+  "assets": [],
+  "requiredAssetKeys": [],
+  "createdAt": "2026-05-11T00:00:00Z",
+  "signature": null
+}
