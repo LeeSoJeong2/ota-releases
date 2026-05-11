@@ -1,0 +1,16 @@
+{
+  "version": "e2e-test-v1",
+  "packHash": "a69cb94cdc016cf347f4a45a217b585c9feaa235fbe7271090ad5e9e8fff907f",
+  "files": [
+    {
+      "path": "demo/app-icon.png",
+      "size": 22380,
+      "sha256": "74c64047eb557b1341bba7a2831eedde9ddb705e6451a9ad9f5552bf558f13de"
+    },
+    {
+      "path": "demo/splash-icon.png",
+      "size": 17547,
+      "sha256": "5f4c0a732b6325bf4071d9124d2ae67e037cb24fcc9c482ef82bea742109a3b8"
+    }
+  ]
+}
