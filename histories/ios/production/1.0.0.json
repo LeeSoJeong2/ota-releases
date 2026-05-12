@@ -1,4 +1,17 @@
 {
+  "1.0.20": {
+    "enabled": true,
+    "mandatory": false,
+    "packageHash": "eb3f340b578e618a6176fbec866574aa0b2ba673e04805055a0658d977f795ad",
+    "rollout": 100,
+    "downloadUrl": "https://raw.githubusercontent.com/LeeSoJeong2/ota-releases/main/bundles/ios/production/eb3f340b578e618a6176fbec866574aa0b2ba673e04805055a0658d977f795ad",
+    "assetUpdate": {
+      "assetPackUrl": "https://raw.githubusercontent.com/LeeSoJeong2/ota-releases/main/assets/ios/production/asset-pack-e2e-test-v1.zip",
+      "assetPackHash": "a69cb94cdc016cf347f4a45a217b585c9feaa235fbe7271090ad5e9e8fff907f",
+      "assetVersion": "e2e-test-v1",
+      "mandatory": false
+    }
+  },
   "1.0.19": {
     "enabled": true,
     "mandatory": false,
