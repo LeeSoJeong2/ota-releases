@@ -1,12 +1,12 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.25",
   "bundle": {
-    "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/f0e85cbfde8575422dcd00818f7e25b2c08fdaa0c7a964fc0dd06b81846b65b3",
-    "sha256": "179d6067025c80baf29fa7498e7b7e8dd79e6b8bb32d76dcce21f9a270212ed1",
-    "size": 8465782
+    "url": "https://raw.githubusercontent.com/LeeSoJeong2/ota-releases/main/bundles/android/production/8852c075cae14d9c30f759ff675b67162e3525e64de3d06d846d74a8fa09214e",
+    "sha256": "8852c075cae14d9c30f759ff675b67162e3525e64de3d06d846d74a8fa09214e",
+    "size": 9523164
   },
   "assets": [],
   "requiredAssetKeys": [],
-  "createdAt": "2026-05-11T00:00:00Z",
+  "createdAt": "2026-05-12T00:00:00Z",
   "signature": null
 }
