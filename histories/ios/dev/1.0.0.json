@@ -19,6 +19,22 @@
     "signature": {
       "alg": "Ed25519",
       "value": "0LU9oi+3aP6x2WpdWqQd7cuCgW/Efnoa0oxKvy0Au53l2ZBBrCSEa2TZa/2xDcmu86WGb6KH1MxGdIMmC50cDQ=="
-    }
+    },
+    "diffPackageMap": {
+      "443906d9314c5dc56159ddf4bc2985972410f25524e709c09599d37c227872ba": {
+        "url": "https://raw.githubusercontent.com/LeeSoJeong2/ota-releases/main/bundles/ios/dev/2e936ece17bd-diff-from-443906d9314c.zip",
+        "size": 3181225,
+        "hash": "619f2ab7af6ad6fbf7f1030eb4ff7e8913ae4bfa453722e26bd4b5041dea9a1d"
+      }
+    },
+    "bsdiffPackageMap": {
+      "443906d9314c5dc56159ddf4bc2985972410f25524e709c09599d37c227872ba": {
+        "url": "https://raw.githubusercontent.com/LeeSoJeong2/ota-releases/main/bundles/ios/dev/2e936ece17bd-bsdiff-from-443906d9314c.zip",
+        "size": 328131,
+        "hash": "6e6be4a4e07876d27c440ef353009c0e48071e0c27cee26146e5c64230350b96",
+        "algorithm": "hdiffpatch-v1"
+      }
+    },
+    "targetFingerprintHash": "ea19f64a2b6a1aa9977d928840b476202b889886"
   }
 }
