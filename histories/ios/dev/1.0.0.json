@@ -1,1 +1,13 @@
-{"1.0.0.1":{"enabled":true,"mandatory":true,"downloadUrl":"https://raw.githubusercontent.com/LeeSoJeong2/ota-releases/main/bundles/ios/dev/443906d9314c5dc56159ddf4bc2985972410f25524e709c09599d37c227872ba","packageHash":"443906d9314c5dc56159ddf4bc2985972410f25524e709c09599d37c227872ba","rollout":100}}
+{
+  "1.0.0.1": {
+    "enabled": true,
+    "mandatory": true,
+    "downloadUrl": "https://raw.githubusercontent.com/LeeSoJeong2/ota-releases/main/bundles/ios/dev/443906d9314c5dc56159ddf4bc2985972410f25524e709c09599d37c227872ba",
+    "packageHash": "443906d9314c5dc56159ddf4bc2985972410f25524e709c09599d37c227872ba",
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "iGfNPKyQkJ+zMQFj+870jEEz8gmrfImh/ndDZLfJr56gkSSorRmzvpxeGYRSqNyV3khQWsXf0G1oHF2xqChOCg=="
+    }
+  }
+}
